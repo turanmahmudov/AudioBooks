@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Audio Books
+Exec=qmlscene $@ Main.qml
+Icon=AudioBooks.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-Splash-Color=#ffffff
+

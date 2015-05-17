@@ -1,0 +1,15 @@
+{
+    "name": "audiobooks.turan-mahmudov-l",
+    "description": "description of AudioBooks",
+    "architecture": "all",
+    "title": "Audio Books",
+    "hooks": {
+        "AudioBooks": {
+            "apparmor": "AudioBooks.apparmor",
+            "desktop": "AudioBooks.desktop"
+        }
+    },
+    "version": "0.1.2",
+    "maintainer": "Turan Mahmudov <turan.mahmudov@gmail.com>",
+    "framework": "ubuntu-sdk-14.10"
+}
